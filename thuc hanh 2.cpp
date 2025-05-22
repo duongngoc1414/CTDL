@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#define endl "\n"
 using namespace std;
 int bit[1000001];
 void update(int i)
